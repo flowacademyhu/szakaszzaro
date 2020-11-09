@@ -1,0 +1,144 @@
+Nov  8 07:59:52 Karo NetworkManager[771]: <info>  [1604818792.8615] NetworkManager (version 1.22.10) is starting... (for the first time)
+Nov  8 07:59:56 Karo NetworkManager[771]: <info>  [1604818792.8617] Read config: /etc/NetworkManager/NetworkManager.conf (lib: 10-dns-resolved.conf, 20-connectivity-ubuntu.conf, no-mac-addr-change.conf) (run: 10-globally-managed-devices.conf) (etc: default-wifi-powersave-on.conf)
+Nov  8 07:59:56 Karo NetworkManager[771]: <info>  [1604818792.9828] bus-manager: acquired D-Bus service "org.freedesktop.NetworkManager"
+Nov  8 07:59:56 Karo NetworkManager[771]: <info>  [1604818793.5488] manager[0x5558ea1be020]: monitoring kernel firmware directory '/lib/firmware'.
+Nov  8 07:59:56 Karo NetworkManager[771]: <info>  [1604818793.5489] monitoring ifupdown state file '/run/network/ifstate'.
+Nov  8 07:59:56 Karo NetworkManager[771]: <info>  [1604818793.5534] hostname: hostname: using hostnamed
+Nov  8 07:59:56 Karo NetworkManager[771]: <info>  [1604818793.5535] hostname: hostname changed from (none) to "Karo"
+Nov  8 07:59:56 Karo NetworkManager[771]: <info>  [1604818793.5545] dns-mgr[0x5558ea1a2290]: init: dns=systemd-resolved rc-manager=symlink, plugin=systemd-resolved
+Nov  8 07:59:56 Karo NetworkManager[771]: <info>  [1604818793.5577] rfkill3: found Wi-Fi radio killswitch (at /sys/devices/pci0000:00/0000:00:1c.3/0000:03:00.0/ieee80211/phy0/rfkill3) (driver rtl8723be)
+Nov  8 07:59:56 Karo NetworkManager[771]: <info>  [1604818793.5583] rfkill0: found Wi-Fi radio killswitch (at /sys/devices/pci0000:00/0000:00:1f.0/PNP0C09:00/VPC2004:00/rfkill/rfkill0) (platform driver ideapad_acpi)
+Nov  8 07:59:56 Karo NetworkManager[771]: <info>  [1604818793.5615] manager[0x5558ea1be020]: rfkill: Wi-Fi hardware radio set enabled
+Nov  8 07:59:56 Karo NetworkManager[771]: <info>  [1604818793.5616] manager[0x5558ea1be020]: rfkill: WWAN hardware radio set enabled
+Nov  8 07:59:56 Karo NetworkManager[771]: <info>  [1604818796.9342] Loaded device plugin: NMWwanFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-device-plugin-wwan.so)
+Nov  8 07:59:58 Karo NetworkManager[771]: <info>  [1604818798.7043] Loaded device plugin: NMTeamFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-device-plugin-team.so)
+Nov  8 07:59:59 Karo NetworkManager[771]: <info>  [1604818799.1825] Loaded device plugin: NMWifiFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-device-plugin-wifi.so)
+Nov  8 08:00:00 Karo NetworkManager[771]: <info>  [1604818800.4658] Loaded device plugin: NMBluezManager (/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-device-plugin-bluetooth.so)
+Nov  8 08:00:00 Karo NetworkManager[771]: <info>  [1604818800.7348] Loaded device plugin: NMAtmManager (/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-device-plugin-adsl.so)
+Nov  8 08:00:00 Karo NetworkManager[771]: <info>  [1604818800.7354] manager: rfkill: Wi-Fi enabled by radio killswitch; enabled by state file
+Nov  8 08:00:00 Karo NetworkManager[771]: <info>  [1604818800.7356] manager: rfkill: WWAN enabled by radio killswitch; enabled by state file
+Nov  8 08:00:00 Karo NetworkManager[771]: <info>  [1604818800.7358] manager: Networking is enabled by state file
+Nov  8 08:00:00 Karo NetworkManager[771]: <info>  [1604818800.7359] dhcp-init: Using DHCP client 'internal'
+Nov  8 08:00:00 Karo dbus-daemon[770]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.15' (uid=0 pid=771 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+Nov  8 08:00:01 Karo NetworkManager[771]: <info>  [1604818801.0079] settings: Loaded settings plugin: ifupdown ("/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-settings-plugin-ifupdown.so")
+Nov  8 08:00:01 Karo NetworkManager[771]: <info>  [1604818801.0080] settings: Loaded settings plugin: keyfile (internal)
+Nov  8 08:00:01 Karo NetworkManager[771]: <info>  [1604818801.0080] ifupdown: management mode: unmanaged
+Nov  8 08:00:01 Karo NetworkManager[771]: <warn>  [1604818801.0255] ifupdown: interfaces file /etc/network/interfaces doesn't exist
+Nov  8 08:00:02 Karo NetworkManager[771]: <info>  [1604818802.2068] device (lo): carrier: link connected
+Nov  8 08:00:02 Karo NetworkManager[771]: <info>  [1604818802.2073] manager: (lo): new Generic device (/org/freedesktop/NetworkManager/Devices/1)
+Nov  8 08:00:02 Karo NetworkManager[771]: <info>  [1604818802.2094] manager: (enp2s0): new Ethernet device (/org/freedesktop/NetworkManager/Devices/2)
+Nov  8 08:00:02 Karo NetworkManager[771]: <info>  [1604818802.3414] settings: (enp2s0): created default wired connection 'Wired connection 1'
+Nov  8 08:00:02 Karo NetworkManager[771]: <info>  [1604818802.3592] device (enp2s0): state change: unmanaged -> unavailable (reason 'managed', sys-iface-state: 'external')
+Nov  8 08:00:03 Karo NetworkManager[771]: <info>  [1604818803.0594] device (wlp3s0): driver supports Access Point (AP) mode
+Nov  8 08:00:03 Karo NetworkManager[771]: <info>  [1604818803.0602] manager: (wlp3s0): new 802.11 Wi-Fi device (/org/freedesktop/NetworkManager/Devices/3)
+Nov  8 08:00:03 Karo NetworkManager[771]: <info>  [1604818803.0624] device (wlp3s0): state change: unmanaged -> unavailable (reason 'managed', sys-iface-state: 'external')
+Nov  8 08:00:04 Karo NetworkManager[771]: <warn>  [1604818804.0276] Error: failed to open /run/network/ifstate
+Nov  8 08:00:04 Karo NetworkManager[771]: <info>  [1604818804.2968] modem-manager: ModemManager available
+Nov  8 08:00:04 Karo NetworkManager[771]: <info>  [1604818804.2992] supplicant: wpa_supplicant running
+Nov  8 08:00:04 Karo NetworkManager[771]: <info>  [1604818804.2993] device (wlp3s0): supplicant interface state: init -> starting
+Nov  8 08:00:05 Karo NetworkManager[771]: <info>  [1604818805.0696] sup-iface[0x5558ea1d1920,wlp3s0]: supports 4 scan SSIDs
+Nov  8 08:00:05 Karo NetworkManager[771]: <info>  [1604818805.0706] device (wlp3s0): supplicant interface state: starting -> ready
+Nov  8 08:00:05 Karo NetworkManager[771]: <info>  [1604818805.0708] Wi-Fi P2P device controlled by interface wlp3s0 created
+Nov  8 08:00:05 Karo NetworkManager[771]: <info>  [1604818805.0713] manager: (p2p-dev-wlp3s0): new 802.11 Wi-Fi P2P device (/org/freedesktop/NetworkManager/Devices/4)
+Nov  8 08:00:05 Karo NetworkManager[771]: <info>  [1604818805.0724] device (p2p-dev-wlp3s0): state change: unmanaged -> unavailable (reason 'managed', sys-iface-state: 'external')
+Nov  8 08:00:05 Karo NetworkManager[771]: <info>  [1604818805.0733] device (p2p-dev-wlp3s0): state change: unavailable -> disconnected (reason 'none', sys-iface-state: 'managed')
+Nov  8 08:00:05 Karo NetworkManager[771]: <info>  [1604818805.0736] device (wlp3s0): state change: unavailable -> disconnected (reason 'supplicant-available', sys-iface-state: 'managed')
+Nov  8 08:00:05 Karo NetworkManager[771]: <warn>  [1604818805.0769] sup-iface: failed to cancel p2p connect: P2P cancel failed
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.5478] policy: auto-activating connection 'PT-LINK first floor' (291650fe-2575-4e9c-93c2-5228577d5562)
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.5487] device (wlp3s0): Activation: starting connection 'PT-LINK first floor' (291650fe-2575-4e9c-93c2-5228577d5562)
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.5489] device (wlp3s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.5496] manager: NetworkManager state is now CONNECTING
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.5503] device (wlp3s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.5508] device (wlp3s0): Activation: (wifi) access point 'PT-LINK first floor' has security, but secrets are required.
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.5509] device (wlp3s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.5512] sup-iface[0x5558ea1d1920,wlp3s0]: wps: type pbc start...
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.5561] device (wlp3s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.5568] device (wlp3s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.5573] device (wlp3s0): Activation: (wifi) connection 'PT-LINK first floor' has security, and secrets exist.  No new secrets needed.
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.5574] Config: added 'ssid' value 'PT-LINK first floor'
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.5574] Config: added 'scan_ssid' value '1'
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.5574] Config: added 'bgscan' value 'simple:30:-70:86400'
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.5575] Config: added 'key_mgmt' value 'WPA-PSK WPA-PSK-SHA256 FT-PSK'
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.5575] Config: added 'auth_alg' value 'OPEN'
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.5575] Config: added 'psk' value '<hidden>'
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.5766] device (wlp3s0): supplicant interface state: ready -> authenticating
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.5766] device (p2p-dev-wlp3s0): supplicant management interface state: ready -> authenticating
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.5784] device (wlp3s0): supplicant interface state: authenticating -> associating
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.5784] device (p2p-dev-wlp3s0): supplicant management interface state: authenticating -> associating
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.5895] device (wlp3s0): supplicant interface state: associating -> 4-way handshake
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.5895] device (p2p-dev-wlp3s0): supplicant management interface state: associating -> 4-way handshake
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.9750] device (wlp3s0): supplicant interface state: 4-way handshake -> completed
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.9751] device (wlp3s0): Activation: (wifi) Stage 2 of 5 (Device Configure) successful. Connected to wireless network "PT-LINK first floor"
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.9751] device (p2p-dev-wlp3s0): supplicant management interface state: 4-way handshake -> completed
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.9755] device (wlp3s0): state change: config -> ip-config (reason 'none', sys-iface-state: 'managed')
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.9766] dhcp4 (wlp3s0): activation: beginning transaction (timeout in 45 seconds)
+Nov  8 08:00:08 Karo NetworkManager[771]: <info>  [1604818808.4892] dhcp4 (wlp3s0): option dhcp_lease_time      => '7200'
+Nov  8 08:00:08 Karo NetworkManager[771]: <info>  [1604818808.4893] dhcp4 (wlp3s0): option domain_name_servers  => '192.168.1.1'
+Nov  8 08:00:08 Karo NetworkManager[771]: <info>  [1604818808.4893] dhcp4 (wlp3s0): option expiry               => '1604826007'
+Nov  8 08:00:08 Karo NetworkManager[771]: <info>  [1604818808.4894] dhcp4 (wlp3s0): option ip_address           => '192.168.1.105'
+Nov  8 08:00:08 Karo NetworkManager[771]: <info>  [1604818808.4894] dhcp4 (wlp3s0): option requested_broadcast_address => '1'
+Nov  8 08:00:08 Karo NetworkManager[771]: <info>  [1604818808.4894] dhcp4 (wlp3s0): option requested_domain_name => '1'
+Nov  8 08:00:08 Karo NetworkManager[771]: <info>  [1604818808.4894] dhcp4 (wlp3s0): option requested_domain_name_servers => '1'
+Nov  8 08:00:08 Karo NetworkManager[771]: <info>  [1604818808.4894] dhcp4 (wlp3s0): option requested_domain_search => '1'
+Nov  8 08:00:08 Karo NetworkManager[771]: <info>  [1604818808.4895] dhcp4 (wlp3s0): option requested_host_name  => '1'
+Nov  8 08:00:08 Karo NetworkManager[771]: <info>  [1604818808.4895] dhcp4 (wlp3s0): option requested_interface_mtu => '1'
+Nov  8 08:00:08 Karo NetworkManager[771]: <info>  [1604818808.4895] dhcp4 (wlp3s0): option requested_ms_classless_static_routes => '1'
+Nov  8 08:00:08 Karo NetworkManager[771]: <info>  [1604818808.4895] dhcp4 (wlp3s0): option requested_nis_domain => '1'
+Nov  8 08:00:08 Karo NetworkManager[771]: <info>  [1604818808.4895] dhcp4 (wlp3s0): option requested_nis_servers => '1'
+Nov  8 08:00:08 Karo NetworkManager[771]: <info>  [1604818808.4895] dhcp4 (wlp3s0): option requested_ntp_servers => '1'
+Nov  8 08:00:08 Karo NetworkManager[771]: <info>  [1604818808.4896] dhcp4 (wlp3s0): option requested_rfc3442_classless_static_routes => '1'
+Nov  8 08:00:08 Karo NetworkManager[771]: <info>  [1604818808.4896] dhcp4 (wlp3s0): option requested_root_path  => '1'
+Nov  8 08:00:08 Karo NetworkManager[771]: <info>  [1604818808.4896] dhcp4 (wlp3s0): option requested_routers    => '1'
+Nov  8 08:00:08 Karo NetworkManager[771]: <info>  [1604818808.4896] dhcp4 (wlp3s0): option requested_static_routes => '1'
+Nov  8 08:00:08 Karo NetworkManager[771]: <info>  [1604818808.4897] dhcp4 (wlp3s0): option requested_subnet_mask => '1'
+Nov  8 08:00:08 Karo NetworkManager[771]: <info>  [1604818808.4897] dhcp4 (wlp3s0): option requested_time_offset => '1'
+Nov  8 08:00:08 Karo NetworkManager[771]: <info>  [1604818808.4897] dhcp4 (wlp3s0): option requested_wpad       => '1'
+Nov  8 08:00:08 Karo NetworkManager[771]: <info>  [1604818808.4897] dhcp4 (wlp3s0): option routers              => '192.168.1.1'
+Nov  8 08:00:08 Karo NetworkManager[771]: <info>  [1604818808.4898] dhcp4 (wlp3s0): option subnet_mask          => '255.255.255.0'
+Nov  8 08:00:08 Karo NetworkManager[771]: <info>  [1604818808.4898] dhcp4 (wlp3s0): state changed unknown -> bound
+Nov  8 08:00:08 Karo NetworkManager[771]: <info>  [1604818808.4940] device (wlp3s0): state change: ip-config -> ip-check (reason 'none', sys-iface-state: 'managed')
+Nov  8 08:00:08 Karo NetworkManager[771]: <info>  [1604818808.6524] device (wlp3s0): state change: ip-check -> secondaries (reason 'none', sys-iface-state: 'managed')
+Nov  8 08:00:08 Karo NetworkManager[771]: <info>  [1604818808.6533] device (wlp3s0): state change: secondaries -> activated (reason 'none', sys-iface-state: 'managed')
+Nov  8 08:00:08 Karo NetworkManager[771]: <info>  [1604818808.6553] manager: NetworkManager state is now CONNECTED_LOCAL
+Nov  8 08:00:09 Karo NetworkManager[771]: <info>  [1604818808.6604] manager: NetworkManager state is now CONNECTED_SITE
+Nov  8 08:00:09 Karo NetworkManager[771]: <info>  [1604818808.6608] policy: set 'PT-LINK first floor' (wlp3s0) as default for IPv4 routing and DNS
+Nov  8 08:00:09 Karo NetworkManager[771]: <info>  [1604818808.6635] device (wlp3s0): Activation: successful, device activated.
+Nov  8 08:00:09 Karo NetworkManager[771]: <info>  [1604818809.0569] manager: startup complete
+Nov  8 08:00:09 Karo NetworkManager[771]: <info>  [1604818809.2188] manager: NetworkManager state is now CONNECTED_GLOBAL
+Nov  8 08:00:10 Karo whoopsie[1021]: [08:00:10] The default IPv4 route is: /org/freedesktop/NetworkManager/ActiveConnection/1
+Nov  8 08:00:10 Karo whoopsie[1021]: [08:00:10] Not a paid data plan: /org/freedesktop/NetworkManager/ActiveConnection/1
+Nov  8 08:00:10 Karo whoopsie[1021]: [08:00:10] Found usable connection: /org/freedesktop/NetworkManager/ActiveConnection/1
+Nov  8 07:00:19 Karo systemd[1]: NetworkManager-dispatcher.service: Succeeded.
+Nov  8 07:01:06 Karo NetworkManager[771]: <info>  [1604815266.9317] agent-manager: agent[d7e88a6d3c082dc8,:1.81/org.gnome.Shell.NetworkAgent/1000]: agent registered
+Nov  8 07:01:15 Karo kernel: [  122.966042] audit: type=1107 audit(1604815275.386:49): pid=770 uid=103 auid=4294967295 ses=4294967295 msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/NetworkManager" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.15" pid=1988 label="snap.snap-store.ubuntu-software" peer_pid=771 peer_label="unconfined"
+Nov  8 07:55:28 Karo NetworkManager[771]: <info>  [1604818528.4457] manager: NetworkManager state is now CONNECTED_SITE
+Nov  8 07:55:28 Karo dbus-daemon[770]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.15' (uid=0 pid=771 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+Nov  8 07:55:38 Karo systemd[1]: NetworkManager-dispatcher.service: Succeeded.
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.8274] dhcp4 (wlp3s0): option dhcp_lease_time      => '7200'
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.8275] dhcp4 (wlp3s0): option domain_name_servers  => '192.168.1.1'
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.8276] dhcp4 (wlp3s0): option expiry               => '1604826006'
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.8276] dhcp4 (wlp3s0): option ip_address           => '192.168.1.105'
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.8276] dhcp4 (wlp3s0): option requested_broadcast_address => '1'
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.8277] dhcp4 (wlp3s0): option requested_domain_name => '1'
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.8277] dhcp4 (wlp3s0): option requested_domain_name_servers => '1'
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.8278] dhcp4 (wlp3s0): option requested_domain_search => '1'
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.8278] dhcp4 (wlp3s0): option requested_host_name  => '1'
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.8278] dhcp4 (wlp3s0): option requested_interface_mtu => '1'
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.8279] dhcp4 (wlp3s0): option requested_ms_classless_static_routes => '1'
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.8279] dhcp4 (wlp3s0): option requested_nis_domain => '1'
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.8280] dhcp4 (wlp3s0): option requested_nis_servers => '1'
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.8280] dhcp4 (wlp3s0): option requested_ntp_servers => '1'
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.8280] dhcp4 (wlp3s0): option requested_rfc3442_classless_static_routes => '1'
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.8281] dhcp4 (wlp3s0): option requested_root_path  => '1'
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.8281] dhcp4 (wlp3s0): option requested_routers    => '1'
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.8282] dhcp4 (wlp3s0): option requested_static_routes => '1'
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.8282] dhcp4 (wlp3s0): option requested_subnet_mask => '1'
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.8282] dhcp4 (wlp3s0): option requested_time_offset => '1'
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.8283] dhcp4 (wlp3s0): option requested_wpad       => '1'
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.8284] dhcp4 (wlp3s0): option routers              => '192.168.1.1'
+Nov  8 08:00:06 Karo dbus-daemon[770]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.15' (uid=0 pid=771 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.8284] dhcp4 (wlp3s0): option subnet_mask          => '255.255.255.0'
+Nov  8 08:00:06 Karo NetworkManager[771]: <info>  [1604818806.8284] dhcp4 (wlp3s0): state changed bound -> extended
+Nov  8 08:00:17 Karo systemd[1]: NetworkManager-dispatcher.service: Succeeded.
+Binary file /var/log/syslog matches
+Hello

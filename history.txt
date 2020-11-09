@@ -1,0 +1,64 @@
+1447  pwd
+ 1448  mkdir szakaszzaro
+ 1449  ls
+ 1450  cd szakaszzaro/
+ 1451  touch szakaszzaro_feladat.txt
+ 1452  echo "Hello" >szakaszzaro.txt
+ 1453  cat szakaszzaro.txt
+ 1454  mv szakaszzaro.txt feladat.txt
+ 1455  ls
+ 1456  cd ..
+ 1457  rm -r szakaszzaro/
+ 1458  ls
+ 1459  mkdir szakaszzaro
+ 1460  ls
+ 1461  cd sza
+ 1462  cd szakaszzaro/
+ 1463  touch szakaszzar_feladat.txt
+ 1464  echo "Hello" >szakaszzaro_feladat.txt
+ 1465  rm szakaszzar_feladat
+ 1466  rm szakaszzar_feladat.txt
+ 1467  ls
+ 1468  car szakaszzaro_feladat.txt 
+ 1469  cat szakaszzaro_feladat.txt 
+ 1470  mv szakaszzaro_feladat.txt feladat.txt
+ 1471  ls
+ 1472  cp feladat.txt feladat2.txt
+ 1473  ls
+ 1474  rm feladat2.txt
+ 1475  cat feladat.txt 
+ 1476  ifconfig /var/log/syslog
+ 1477  cd /var/log/syslog
+ 1478  cd /var/log/
+ 1479  ls -la
+ 1480  cat syslog
+ 1481  /var/log/syslog |grep Networkmanager
+ 1482  ls -la
+ 1483  chmod 777 syslog
+ 1484  chmod 777 /var/log/syslog
+ 1485  sudo chmod 777 /var/log/syslog
+ 1486  ls -la
+ 1487  syslog |grep Networkmanager
+ 1488  cat syslog |grep Networkmanager
+ 1489  grep Networkmanager syslog
+ 1490  cat syslog
+ 1491  grep Networkmanager
+ 1492  grep NetworkManager
+ 1493  grep NetworkManager [syslog]
+ 1494  grep NetworkManager /var/log/syslog
+ 1495  grep NetworkManager /var/log/syslog >/home/karo/szakaszzaro/feladat.txt
+ 1496  echo "Hello" >>/home/karo/szakaszzaro/feladat.txt 
+ 1497  cat /home/karo/szakaszzaro/feladat.txt 
+ 1498  cd ~
+ 1499  cd home/karo/szakszazaro
+ 1500  cd szakaszzaro/
+ 1501  git init git@github.com:flowacademyhu/szakaszzaro.git
+ 1502  git clone git@github.com:flowacademyhu/szakaszzaro.git
+ 1503  git status
+ 1504  git clone git@github.com:flowacademyhu/szakaszzaro.git
+ 1505  ls
+ 1506  git status
+ 1507  cp ~/.bash_history feladat2
+ 1508  ls
+ 1509  cat feladat2
+ 1510  history
